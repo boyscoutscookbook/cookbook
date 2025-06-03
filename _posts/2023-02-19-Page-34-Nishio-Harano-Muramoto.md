@@ -2,7 +2,7 @@
 layout: post
 ---
 
-![Page 34](assets/images/page_34_nishio_harano_muramoto.jpg)
+![Page 34](assets/images/Page-34-Nishio-Harano-Muramoto.jpg)
 
-## Flank Steam - Greg Harano
+## Flank Steak - Greg Harano
 
