@@ -1,6 +1,5 @@
 ---
 layout: post
-title: Greg Harano - Impossible Pie
 ---
 
 
