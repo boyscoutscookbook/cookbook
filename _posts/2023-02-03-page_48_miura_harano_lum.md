@@ -4,7 +4,7 @@ layout: post
 
 ![Page 48](assets/images/page_48_miura_harano_lum.jpg)
 
-Impossible Pie - Greg Harano
+##Impossible Pie - Greg Harano
 
 * 4 eggs
 * 1/2 c. Bisquick
