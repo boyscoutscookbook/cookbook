@@ -2,7 +2,7 @@
 layout: post
 ---
 
-![Page 48](/assets/images/page_48_miura_harano_lum.jpg)
+![Page 48](assets/images/page_48_miura_harano_lum.jpg)
 
 Impossible Pie - Greg Harano
 
