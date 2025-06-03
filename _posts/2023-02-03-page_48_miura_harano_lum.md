@@ -2,7 +2,7 @@
 layout: post
 ---
 
-testing
+![Page 4](/assets/images/page_48_miura_harano_lum.jpg)
 
 * 4 eggs
 * 1/2 c. Bisquick
